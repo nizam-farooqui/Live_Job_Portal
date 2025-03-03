@@ -16,3 +16,10 @@ State Management: React Context API / Redux
 Backend
 Database
 Authentication
+
+Output : https://github.com/user-attachments/assets/4d11ba80-40b9-4af6-bbc0-91749e3faeca
+
+
+
+
+

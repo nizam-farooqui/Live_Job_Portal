@@ -1,0 +1,13 @@
+/* src/Carousel.css */
+
+/* Add margin between each card */
+.slick-slide {
+    padding: 0 10px;  /* Add gap to the left and right of each slide */
+  }
+  
+
+  
+  .slick-prev, .slick-next {
+    /* Optionally, style the next/prev buttons for better visibility */
+    z-index: 1;
+  }
